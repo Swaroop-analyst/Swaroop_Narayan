@@ -31,6 +31,6 @@ I am open to collaborations on data-driven projects. Connect with me:
 - **Email**: [swaroopnarayan@gmail.com]
 - **LinkedIn**: [Link to your profile, e.g., https://www.linkedin.com/in/yourprofile]
 - **Twitter**: [Link if applicable]
-- **GitHub**: Explore my repositories at [your GitHub profile link].
+- **GitHub**: Explore my repositories at [https://github.com/Swaroop_Narayan].
 
 Thank you for visiting. Let's connect on impactful data initiatives.
